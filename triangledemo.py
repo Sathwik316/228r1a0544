@@ -15,3 +15,4 @@ for i in range(0, rows):
             j=j+1;
         i=i+1
         print("\r")
+        
